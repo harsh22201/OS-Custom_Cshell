@@ -14,7 +14,7 @@ It should additionally also cater 2 options:
 
 Note: Only one of the options (-n or -d) can be used at a time with the word command.
 
-3) dir: It creates a directory, and then changes the path to that directory. It is an external command, throw an error if that directory already exists.
+2) dir: It creates a directory, and then changes the path to that directory. It is an external command, throw an error if that directory already exists.
 
 Syntax: dir [-option] [dir_name]
 
@@ -24,7 +24,7 @@ It should additionally also cater 2 options:
 
 -v : print a message for each step in the running of this command
 
-4) date: It returns the last modified date and time of a particular file.  It is an external command
+3) date: It returns the last modified date and time of a particular file.  It is an external command
 
 Syntax: date [-option] [file_name]
 
